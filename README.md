@@ -89,14 +89,6 @@ Building intelligent AI solutions with Machine Learning, Deep Learning, and Larg
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihussain95e-lgtm&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alihussain95e-lgtm&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/iqbal-hussain-69229140b
