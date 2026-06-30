@@ -1,39 +1,43 @@
 <h1 align="center">Hi 👋, I'm Ali Hussain</h1>
 <h3 align="center">AI/ML Engineer | Generative AI | LLM | RAG | Machine Learning</h3>
 
+<p align="center">
+Building intelligent AI solutions with Machine Learning, Deep Learning, and Large Language Models.
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working on **Generative AI, LLM Applications, and RAG Systems**
-- 🌱 I'm currently learning **AI Agents, LangGraph, MCP, Advanced RAG, and MLOps**
-- 👯 I'm looking to collaborate on **Open Source AI & Machine Learning Projects**
-- 🤝 I'm looking for help with **Enterprise AI Solutions and Distributed AI Systems**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, LLMs, RAG, LangChain, FastAPI, and MLOps**
-- ⚡ Fun fact: **I enjoy building AI solutions that solve real-world business problems.**
+- 🔭 I’m currently working on **Enterprise Generative AI, LLM Applications, and RAG Systems**
+- 🌱 I’m currently learning **AI Agents, LangGraph, MCP, Advanced RAG, and MLOps**
+- 👯 I’m looking to collaborate on **Open Source AI & Machine Learning Projects**
+- 🤝 I’m looking for help with **Enterprise AI Solutions and Distributed AI Systems**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, LLMs, RAG, LangChain, FastAPI, Docker, Kubernetes, and MLOps**
+- ⚡ Fun fact: **I enjoy building AI applications that solve real-world business problems.**
 
 ---
 
 ## 🚀 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 - Python
 - SQL
 - JavaScript
 
-### AI & Machine Learning
+### 🤖 AI & Machine Learning
 - Machine Learning
 - Deep Learning
 - Generative AI
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- AI Agents
 - LangChain
 - Hugging Face
 - OpenAI API
+- AI Agents
 
-### Data Science
+### 📊 Data Science
 - Pandas
 - NumPy
 - Scikit-learn
@@ -41,16 +45,16 @@
 - PyTorch
 - Matplotlib
 
-### Databases
+### 🗄️ Databases
 - PostgreSQL
 - MySQL
 - MongoDB
 - ChromaDB
 - FAISS
 
-### Cloud & DevOps
+### ☁️ Cloud & DevOps
 - AWS
-- Azure
+- Microsoft Azure
 - Docker
 - Kubernetes
 - Git
@@ -62,16 +66,16 @@
 ## 📂 Featured Projects
 
 ### 🤖 Enterprise Generative AI Platform
-- LLM-powered AI Assistant
+- Enterprise AI Assistant
 - Retrieval-Augmented Generation (RAG)
-- Semantic Search
 - Vector Database
+- Semantic Search
 - LangChain
 - FastAPI
 
 ### 📄 Intelligent Document Question Answering
-- Document Parsing
-- Embeddings
+- Document Processing
+- Embedding Models
 - Semantic Search
 - OpenAI API
 - ChromaDB
@@ -95,9 +99,12 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/iqbal-hussain-69229140b
-- 📧 Email: YOUR_EMAIL@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/iqbal-hussain-69229140b
+- 📧 **Email:** alihussain95e@gmail.com
+- 💻 **GitHub:** https://github.com/alihussain95e-lgtm
 
 ---
 
-⭐ Thanks for visiting my profile!
+<p align="center">
+⭐ If you like my work, consider giving a ⭐ to my repositories!
+</p>
